@@ -31,6 +31,7 @@
 물 낭비 및 농작물 피해	토양 상태 기반 자동 급수
 유지보수 어려움	간단한 구조와 저비용 센서 사용
 5. 시스템 구성도
+   
 [ Solar Panel ] ─> [ Battery + Charge Controller ]
                               │
 [ Soil Moisture Sensor ] ──> Arduino UNO ──> [ Relay Module ] ──> [ Water Pump ]
